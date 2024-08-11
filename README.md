@@ -11,6 +11,23 @@ The Task Manager is a simple web application built with Laravel for managing tas
 - **Task Status**: Mark tasks as pending or completed.
 - **User Interface**: Simple and intuitive user interface.
 
+-> Home Page
+![Home](https://github.com/user-attachments/assets/f2e46cd3-cf69-4dc3-bd27-db0da5187684)
+
+
+->Create Task
+![CreateTask](https://github.com/user-attachments/assets/e1130824-8e57-4dd4-992a-a8965824f769)
+
+
+->Show Tasks
+![Showtask](https://github.com/user-attachments/assets/0f0ed2c4-618d-4b53-9160-2a68f3a525d4)
+
+-> Edit Task
+![Screenshot 2024-08-11 150442](https://github.com/user-attachments/assets/cd54a3d0-a0a8-4bdf-a294-03cef446827b)
+
+->Delete Task
+![Home](https://github.com/user-attachments/assets/ed7e89d4-c4a7-4ff9-ac18-1421cc1a5885)
+
 
 
 ###
